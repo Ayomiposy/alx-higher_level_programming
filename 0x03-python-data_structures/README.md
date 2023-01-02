@@ -1,2 +1,1 @@
-## Python data structures, list and tuple
-
+0x03. Python - Data Structures: Lists, Tuples
